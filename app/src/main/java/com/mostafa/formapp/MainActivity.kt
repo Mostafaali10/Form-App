@@ -40,6 +40,7 @@ class MainActivity : AppCompatActivity() {
                 .collection("users")
                 .add(u)
                 .addOnSuccessListener {
+                     it.update("id" , it.id)
                     Toast.makeText(this, "Added!", Toast.LENGTH_SHORT).show()
                     binding.progress.isVisible = false
                 }
