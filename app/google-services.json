@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095230453893",
+    "project_id": "form-app-5d840",
+    "storage_bucket": "form-app-5d840.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095230453893:android:3da4ebb9c2e1a0eac0d1ec",
+        "android_client_info": {
+          "package_name": "com.mostafa.formapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUOWtgHQLF6sQscZ7GSMim8cWsxQoZpj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
